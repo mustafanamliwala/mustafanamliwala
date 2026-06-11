@@ -85,7 +85,7 @@ me.say_hi()
 | 🌐 [Neural Machine Translation](https://github.com/mustafanamliwala/Neural-Machine-Translation-Model) | Seq2Seq NMT model with attention | NLP, PyTorch |
 | 🎬 [Movie Recommendation](https://github.com/mustafanamliwala/Collaborative-Movie-Recommendation) | Collaborative filtering recommender | ML |
 | 📝 [FLAN-T5 Summarization](https://github.com/mustafanamliwala/Flan-T5-Finetuning-for-Summarization-) | Fine-tuned FLAN-T5 for text summarization | LLMs, HuggingFace |
-| 🤖 SLM from Scratch | Training a Small Language Model on TinyStories | PyTorch, Transformers |
+| 🤖 [SLM from Scratch](https://github.com/mustafanamliwala/SLM-from-Scratch) | Training a Small Language Model on TinyStories | PyTorch, Transformers |
 
 </div>
 
