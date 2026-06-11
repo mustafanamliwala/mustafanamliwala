@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mustafa%20Namliwala&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Senior%20Data%20Scientist%20%7C%20ML%20%26%20AI%20Engineer&descAlignY=58&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=Mustafa%20Namliwala&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn" />
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
