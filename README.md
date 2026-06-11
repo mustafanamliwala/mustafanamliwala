@@ -109,7 +109,7 @@ me.say_hi()
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mustafanamliwala&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=mustafanamliwala&theme=radical&no-frame=true&margin-w=4&column=6" />
 </div>
 
 ---
@@ -117,8 +117,14 @@ me.say_hi()
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mustafanamliwala/mustafanamliwala/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mustafanamliwala/mustafanamliwala/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mustafanamliwala/mustafanamliwala/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/mustafanamliwala/mustafanamliwala/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
+
+> ⚡ Snake appears after the **Generate Snake** GitHub Action runs once. Trigger it manually from the **Actions** tab in your profile repo.
 
 ---
 
