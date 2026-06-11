@@ -106,10 +106,19 @@ me.say_hi()
 
 ---
 
-## 🏆 GitHub Trophies
+## 💡 Core Expertise
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mustafanamliwala&theme=tokyonight&no-frame=true&margin-w=6" />
+
+| Domain | Skills |
+|---|---|
+| **Deep Learning** | Transformers, CNNs, RNNs, LSTMs, GANs, Diffusion Models |
+| **NLP** | LLM Fine-tuning, Text Classification, NMT, Summarization, Embeddings |
+| **Computer Vision** | Object Detection, Image Classification, Gaze Estimation, OpenCV |
+| **ML Engineering** | Model Training, Hyperparameter Tuning, Experiment Tracking |
+| **Data Science** | EDA, Statistical Modelling, Bayesian Statistics, Time Series |
+| **Tools & Infra** | PyTorch, HuggingFace, Scikit-learn, Pandas, AWS, Git |
+
 </div>
 
 ---
